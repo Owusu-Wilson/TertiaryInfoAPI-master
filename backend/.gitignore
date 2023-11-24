@@ -1,0 +1,6 @@
+# JetBrains PyCharm IDE
+.idea/
+
+# vscode ide
+./vscode
+./tests

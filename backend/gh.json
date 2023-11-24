@@ -1,0 +1,632 @@
+[
+  {
+    "web_pages": ["https://acity.edu.gh/"],
+    "name": "Academic City University College",
+    "acronym": "ACUC",
+    "alpha_two_code": "GH",
+    "town": ["Agbogba, Haatso"],
+    "region": "Greater Accra Region",
+    "country": "Ghana"
+  },
+  {
+    "web_pages": ["https://www.ait.edu.gh/"],
+    "name": "Accra Institute of Technology",
+    "acronym": "AIT",
+    "alpha_two_code": "GH",
+    "town": ["Ga West, Accra"],
+    "region": "Greater Accra Region",
+    "country": "Ghana"
+  },
+  {
+    "web_pages": ["https://atu.edu.gh/"],
+    "name": "Accra Technical University",
+    "acronym": "ATU",
+    "alpha_two_code": "GH",
+    "town": ["Barnes road, Accra"],
+    "region": "Greater Accra Region",
+    "country": "Ghana"
+  },
+  {
+    "web_pages": ["https://advancedbusinesscollege.org/"],
+    "name": "Advanced Business College",
+    "acronym": "ABC",
+    "alpha_two_code": "GH",
+    "town": ["Anuwaatre Street, North Kaneshie, Accra"],
+    "region": "Greater Accra Region",
+    "country": "Ghana"
+  },
+  {
+    "web_pages": ["https://www.aucc.edu.gh/"],
+    "name": "African University College of Communications",
+    "acronym": "AUCC",
+    "alpha_two_code": "GH",
+    "town": ["Adabraka, Accra"],
+    "region": "Greater Accra Region",
+    "country": "Ghana"
+  },
+  {
+    "web_pages": ["https://anu.edu.gh/"],
+    "name": "All Nations University",
+    "acronym": "ANU",
+    "alpha_two_code": "GH",
+    "town": ["Boateng KF1908, Koforidua"],
+    "region": "Eastern Region",
+    "country": "Ghana"
+  },
+  {
+    "web_pages": ["https://www.angutech.edu.gh/"],
+    "name": "Anglican University College of Technology",
+    "acronym": "ANG.U.TECH",
+    "alpha_two_code": "GH",
+    "town": ["3 Oak Street, Teshie"],
+    "region": "Greater Accra Region",
+    "country": "Ghana"
+  },
+  {
+    "web_pages": ["https://www.ashesi.edu.gh/"],
+    "name": "Ashesi University",
+    "acronym": "ANG.U.TECH",
+    "alpha_two_code": "GH",
+    "town": ["1 University Avenue, PMB CT3 Cantonments, Berekuso"],
+    "region": "Eastern Region",
+    "country": "Ghana"
+  },
+  {
+    "web_pages": ["https://bluecrest.edu.gh/"],
+    "name": "BlueCrest College",
+    "acronym": "BCC",
+    "alpha_two_code": "GH",
+    "town": ["Cola Street, Kokomlemle, Accra"],
+    "region": "Greater Accra Region",
+    "country": "Ghana"
+  },
+  {
+    "web_pages": ["https://www.bolgatu.edu.gh/"],
+    "name": "Bolgatanga Technical University",
+    "acronym": "BTU",
+    "alpha_two_code": "GH",
+    "town": ["Bolgatanga"],
+    "region": "Upper East Region",
+    "country": "Ghana"
+  },
+  {
+    "web_pages": ["https://cktutas.edu.gh/"],
+    "name": "C.K. Tedam University of Technology and Applied Sciences",
+    "acronym": "CKTUTAS",
+    "alpha_two_code": "GH",
+    "town": ["Navrongo"],
+    "region": "Upper East Region",
+    "country": "Ghana"
+  },
+  {
+    "web_pages": ["https://cctu.edu.gh/"],
+    "name": "Cape Coast Technical University",
+    "acronym": "CCTU",
+    "alpha_two_code": "GH",
+    "town": ["Cape Coast"],
+    "region": "Central Region",
+    "country": "Ghana"
+  },
+  {
+    "web_pages": ["https://cibt.edu.gh/"],
+    "name": "Catholic Institute of Business and Technology",
+    "acronym": "CIBT",
+    "alpha_two_code": "GH",
+    "town": ["Accra North"],
+    "region": "Greater Accra Region",
+    "country": "Ghana"
+  },
+  {
+    "web_pages": ["https://www.cug.edu.gh/"],
+    "name": "Catholic University College of Ghana",
+    "acronym": "CIBT",
+    "alpha_two_code": "GH",
+    "town": ["Sunyani"],
+    "region": "Bono Region",
+    "country": "Ghana"
+  },
+  {
+    "web_pages": ["https://www.central.edu.gh/"],
+    "name": "Central University",
+    "acronym": "CUC",
+    "alpha_two_code": "GH",
+    "town": ["Tema", "Prampram", "Mataheko"],
+    "region": "Greater Accra Region",
+    "country": "Ghana"
+  },
+  {
+    "web_pages": ["https://cauc.edu.gh/"],
+    "name": "Christ Apostolic University College",
+    "acronym": "CAUC",
+    "alpha_two_code": "GH",
+    "town": ["Kumasi"],
+    "region": "Ashanti Region",
+    "country": "Ghana"
+  },
+  {
+    "web_pages": ["https://www.csuc.edu.gh/"],
+    "name": "Christian Service University College",
+    "acronym": "CSUC",
+    "alpha_two_code": "GH",
+    "town": ["Odeneho Kwadaso, Santasi-Kumasi"],
+    "region": "Ashanti Region",
+    "country": "Ghana"
+  },
+  {
+    "web_pages": ["https://datalink.edu.gh/"],
+    "name": "Data Link Institute",
+    "acronym": "DLI",
+    "alpha_two_code": "GH",
+    "town": ["Tema Community 10 New Road, Tema"],
+    "region": "Greater Accra Region",
+    "country": "Ghana"
+  },
+  {
+    "web_pages": ["https://duc.edu.gh/"],
+    "name": "Dominion University College",
+    "acronym": "DUC",
+    "alpha_two_code": "GH",
+    "town": ["Off Tetteh Quashie Interchange, Spintex Road, Accra"],
+    "region": "Greater Accra Region",
+    "country": "Ghana"
+  },
+  {
+    "web_pages": ["https://dhltu.edu.gh/"],
+    "name": "Dr. Hilla Limann Technical University",
+    "acronym": "",
+    "alpha_two_code": "GH",
+    "town": ["Wa"],
+    "region": "Upper West Region",
+    "country": "Ghana"
+  },
+  {
+    "web_pages": ["http://www.epuc.edu.gh/"],
+    "name": "Evangelical Presbyterian University College",
+    "acronym": "EPUC",
+    "alpha_two_code": "GH",
+    "town": ["Ho"],
+    "region": "Volta Region",
+    "country": "Ghana"
+  },
+  {
+    "web_pages": ["https://www.gcuc.edu.gh/"],
+    "name": "Garden City University College",
+    "acronym": "GCUC",
+    "alpha_two_code": "GH",
+    "town": ["Kumasi"],
+    "region": "Ashanti Region",
+    "country": "Ghana"
+  },
+  {
+    "web_pages": ["https://gbuc.edu.gh/"],
+    "name": "Ghana Baptist University College",
+    "acronym": "GBUC",
+    "alpha_two_code": "GH",
+    "town": ["Abuakwa-Kumasi"],
+    "region": "Ashanti Region",
+    "country": "Ghana"
+  },
+  {
+    "web_pages": ["https://ghanacu.com/"],
+    "name": "Ghana Christian University College",
+    "acronym": "GhanaCU",
+    "alpha_two_code": "GH",
+    "town": ["Dodowa, Accra"],
+    "region": "Greater Accra Region",
+    "country": "Ghana"
+  },
+  {
+    "web_pages": ["https://gij.edu.gh/"],
+    "name": "Ghana Institute of Journalism",
+    "acronym": "GIJ",
+    "alpha_two_code": "GH",
+    "town": ["32nd Gamel Abdul Nasser Road Osu, Accra"],
+    "region": "Greater Accra Region",
+    "country": "Ghana"
+  },
+  {
+    "web_pages": ["https://gij.edu.gh/"],
+    "name": "Ghana Institute of Languages",
+    "acronym": "GIL",
+    "alpha_two_code": "GH",
+    "town": ["GIL City Campus, Off Barnes Road, Adabraka", "East Legon", "Kumasi", "Tamale"],
+    "region": "Greater Accra Region",
+    "country": "Ghana"
+  },
+  {
+    "web_pages": ["https://www.gimpa.edu.gh/"],
+    "name": "Ghana Institute of Management and Public Administration",
+    "acronym": "GIMPA",
+    "alpha_two_code": "GH",
+    "town": [" Achimota, Accra"],
+    "region": "Greater Accra Region",
+    "country": "Ghana"
+  },
+  {
+    "web_pages": ["https://www.gimpa.edu.gh/"],
+    "name": "Ghana Technology University College",
+    "acronym": "GIMPA",
+    "alpha_two_code": "GH",
+    "town": ["Accra North", "Kumasi, Takoradi, Koforidua, Ho"],
+    "region": "Greater Accra Region",
+    "country": "Ghana"
+  },
+  {
+    "web_pages": ["https://gtuc.edu.gh/"],
+    "name": "Ghana Technology University College",
+    "acronym": "GTUC",
+    "alpha_two_code": "GH",
+    "town": ["Accra North", "Kumasi, Takoradi, Koforidua, Ho"],
+    "region": "Greater Accra Region",
+    "country": "Ghana"
+  },
+  {
+    "web_pages": ["https://www.htu.edu.gh/"],
+    "name": "Ho Technical University",
+    "acronym": "HTU",
+    "alpha_two_code": "GH",
+    "town": ["Ho"],
+    "region": "Volta Region",
+    "country": "Ghana"
+  },
+  {
+    "web_pages": ["https://iug.edu.gh/"],
+    "name": "Islamic University College, Ghana",
+    "acronym": "IUG",
+    "alpha_two_code": "GH",
+    "town": ["Adjiringanor, East Legon "],
+    "region": "Greater Accra Region",
+    "country": "Ghana"
+  },
+  {
+    "web_pages": ["https://juc.edu.gh/"],
+    "name": "Jayee University College",
+    "acronym": "JUC",
+    "alpha_two_code": "GH",
+    "town": ["Royal Palm Avenue, McCarthy Hill, Mango Lane, Accra"],
+    "region": "Greater Accra Region",
+    "country": "Ghana"
+  },
+  {
+    "web_pages": ["https://www.kaafuni.edu.gh/"],
+    "name": "KAAF University College",
+    "acronym": "KAAF",
+    "alpha_two_code": "GH",
+    "town": ["KAAF Avenue Street, Gomoa Fetteh Kakraba, Kasoa"],
+    "region": "Central Region",
+    "country": "Ghana"
+  },
+  {
+    "web_pages": ["https://kc.edu.gh/"],
+    "name": "Kessben College",
+    "acronym": "KC",
+    "alpha_two_code": "GH",
+    "town": ["Lake Bosomtwi Road, Kuntenase"],
+    "region": "Ashanti Region",
+    "country": "Ghana"
+  },
+  {
+    "web_pages": ["https://knutsford.edu.gh/"],
+    "name": "Knutsford University College",
+    "acronym": "KUC",
+    "alpha_two_code": "GH",
+    "town": ["East Legon"],
+    "region": "Greater Accra Region",
+    "country": "Ghana"
+  },
+  {
+    "web_pages": ["https://www.kuc.edu.gh/"],
+    "name": "Kings University College",
+    "acronym": "KUC",
+    "alpha_two_code": "GH",
+    "town": ["Aplaku Hills, Off Old Weija Barrier Bojo Beach Road"],
+    "region": "Greater Accra Region",
+    "country": "Ghana"
+  },
+  {
+    "web_pages": ["https://www.ktu.edu.gh/"],
+    "name": "Koforidua Technical University",
+    "acronym": "KUC",
+    "alpha_two_code": "GH",
+    "town": ["Koforidua"],
+    "region": "Eastern Region",
+    "country": "Ghana"
+  },
+  {
+    "web_pages": ["https://www.kstu.edu.gh/"],
+    "name": "Kumasi Technical University",
+    "acronym": "KUC",
+    "alpha_two_code": "GH",
+    "town": ["Kumasi"],
+    "region": "Ashanti Region",
+    "country": "Ghana"
+  },
+  {
+    "web_pages": ["https://www.knust.edu.gh/"],
+    "name": "Kwame Nkrumah University of Science and Technology",
+    "acronym": "KNUST",
+    "alpha_two_code": "GH",
+    "town": ["Kumasi", "Sunyani", "Accra"],
+    "region": "Ashanti Region",
+    "country": "Ghana"
+  },
+  {
+    "web_pages": ["https://lancaster.edu.gh/"],
+    "name": "Lancaster University, Ghana",
+    "acronym": "LUG",
+    "alpha_two_code": "GH",
+    "town": ["A&C Square, East Legon"],
+    "region": "Greater Accra Region",
+    "country": "Ghana"
+  },
+  {
+    "web_pages": ["http://muc.edu.gh/"],
+    "name": "Maranatha University College",
+    "acronym": "MUC",
+    "alpha_two_code": "GH",
+    "town": ["Accra North"],
+    "region": "Greater Accra Region",
+    "country": "Ghana"
+  },
+  {
+    "web_pages": ["http://www.marshalls.edu.gh/"],
+    "name": "Marshalls University College",
+    "acronym": "MARSHALLS",
+    "alpha_two_code": "GH",
+    "town": ["Korle-Bu, Accra", "Akosombo"],
+    "region": "Greater Accra Region",
+    "country": "Ghana"
+  },
+  {
+    "web_pages": ["https://mucg.edu.gh/"],
+    "name": "Methodist University College",
+    "acronym": "MUCG",
+    "alpha_two_code": "GH",
+    "town": ["Dansoman, Accra"],
+    "region": "Greater Accra Region",
+    "country": "Ghana"
+  },
+  {
+    "web_pages": ["https://mountcrestuniversity.edu.gh/"],
+    "name": "Mountcrest University College",
+    "acronym": "MCUC",
+    "alpha_two_code": "GH",
+    "town": ["12 Ablade Road, Kanda Estates"],
+    "region": "Greater Accra Region",
+    "country": "Ghana"
+  },
+  {
+    "web_pages": ["https://pentvars.edu.gh/"],
+    "name": "Pentecost University",
+    "acronym": "PUC",
+    "alpha_two_code": "GH",
+    "town": ["Kaneshie, Accra"],
+    "region": "Greater Accra Region",
+    "country": "Ghana"
+  },
+  {
+    "web_pages": ["https://www.perez.edu.gh/"],
+    "name": "Perez University College",
+    "acronym": "PERUC",
+    "alpha_two_code": "GH",
+    "town": ["Winneba"],
+    "region": "Central Region",
+    "country": "Ghana"
+  },
+  {
+    "web_pages": ["https://www.presbyuniversity.edu.gh/"],
+    "name": "Presbyterian University College",
+    "acronym": "PUCG",
+    "alpha_two_code": "GH",
+    "town": ["Abetifi", "Asante Akyem", "Akuapem", "Tema"],
+    "region": "Eastern Region",
+    "country": "Ghana"
+  },
+  {
+    "web_pages": ["https://www.ruc.edu.gh/"],
+    "name": "Radford University College",
+    "acronym": "RUC",
+    "alpha_two_code": "GH",
+    "town": ["Cantoment, Accra"],
+    "region": "Greater Accra Region",
+    "country": "Ghana"
+  },
+  {
+    "web_pages": ["http://regent.edu.gh/"],
+    "name": "Regent University College of Science and Technology",
+    "acronym": "RUCST",
+    "alpha_two_code": "GH",
+    "town": ["Dansoman, Accra"],
+    "region": "Greater Accra Region",
+    "country": "Ghana"
+  },
+  {
+    "web_pages": ["https://rmu.edu.gh/"],
+    "name": "Regional Maritime University",
+    "acronym": "RMU",
+    "alpha_two_code": "GH",
+    "town": ["Nungua, Accra"],
+    "region": "Greater Accra Region",
+    "country": "Ghana"
+  },
+  {
+    "web_pages": ["https://ubids.edu.gh/"],
+    "name": "Simon Diedong Dombo University of Business and Integrated Development Studies",
+    "acronym": "SDD-UBIDS",
+    "alpha_two_code": "GH",
+    "town": ["Bamahu, Wa"],
+    "region": "Upper West Region",
+    "country": "Ghana"
+  },
+  {
+    "web_pages": ["https://suc.edu.gh/"],
+    "name": "Spiritan University College",
+    "acronym": "SUC",
+    "alpha_two_code": "GH",
+    "town": ["Ejisu"],
+    "region": "Ashanti Region",
+    "country": "Ghana"
+  },
+  {
+    "web_pages": ["https://stu.edu.gh/"],
+    "name": "Sunyani Technical University",
+    "acronym": "STU",
+    "alpha_two_code": "GH",
+    "town": ["Sunyani"],
+    "region": "Bono Region",
+    "country": "Ghana"
+  },
+  {
+    "web_pages": ["https://ttu.edu.gh/"],
+    "name": "Takoradi Technical University",
+    "acronym": "TTU",
+    "alpha_two_code": "GH",
+    "town": ["Takoradi"],
+    "region": "Western Region",
+    "country": "Ghana"
+  },
+  {
+    "web_pages": ["https://tatu.edu.gh/"],
+    "name": "Tamale Technical University",
+    "acronym": "TTU",
+    "alpha_two_code": "GH",
+    "town": ["Tamale"],
+    "region": "Northern Region",
+    "country": "Ghana"
+  },
+  {
+    "web_pages": ["https://ucaes.edu.gh/"],
+    "name": "University College of Agriculture and Environmental Studies",
+    "acronym": "UCAES",
+    "alpha_two_code": "GH",
+    "town": ["Bunso"],
+    "region": "Eastern Region",
+    "country": "Ghana"
+  },
+  {
+    "web_pages": ["https://ucoms.edu.gh/"],
+    "name": "University College of Management Studies",
+    "acronym": "UCOMS",
+    "alpha_two_code": "GH",
+    "town": ["Accra", "Kumasi"],
+    "region": "Greater Accra Region",
+    "country": "Ghana"
+  },
+  {
+    "web_pages": ["https://uds.edu.gh/"],
+    "name": "University for Development Studies",
+    "acronym": "UDS",
+    "alpha_two_code": "GH",
+    "town": ["Tamale"],
+    "region": "Northern Region",
+    "country": "Ghana"
+  },
+  {
+    "web_pages": ["https://ucc.edu.gh/"],
+    "name": "University of Cape Coast",
+    "acronym": "UCC",
+    "alpha_two_code": "GH",
+    "town": ["Sekondi Road, Cape Coast"],
+    "region": "Central Region",
+    "country": "Ghana"
+  },
+  {
+    "web_pages": ["https://www.uew.edu.gh/"],
+    "name": "University of Education, Winneba",
+    "acronym": "UEW",
+    "alpha_two_code": "GH",
+    "town": ["Winneba", "Kumasi", "Ashanti Mampong", "Ajumako"],
+    "region": "Central Region",
+    "country": "Ghana"
+  },
+  {
+    "web_pages": ["https://www.uew.edu.gh/"],
+    "name": "University of Energy and Natural Resources",
+    "acronym": "UENR",
+    "alpha_two_code": "GH",
+    "town": ["Sunyani"],
+    "region": "Bono Region",
+    "country": "Ghana"
+  },
+  {
+    "web_pages": ["https://www.ug.edu.gh/"],
+    "name": "University of Ghana",
+    "acronym": "UG",
+    "alpha_two_code": "GH",
+    "town": ["Legon", "Korle-Bu", "Accra City"],
+    "region": "Greater Accra Region",
+    "country": "Ghana"
+  },
+  {
+    "web_pages": ["https://www.uhas.edu.gh/"],
+    "name": "University of Health and Allied Sciences",
+    "acronym": "UHAS",
+    "alpha_two_code": "GH",
+    "town": ["Ho"],
+    "region": "Volta Region",
+    "country": "Ghana"
+  },
+  {
+    "web_pages": ["https://www.umat.edu.gh/"],
+    "name": "University of Mines and Technology",
+    "acronym": "UMaT",
+    "alpha_two_code": "GH",
+    "town": ["Tarkwa"],
+    "region": "Western Region",
+    "country": "Ghana"
+  },
+  {
+    "web_pages": ["https://upsa.edu.gh/"],
+    "name": "University of Professional Studies, Accra",
+    "acronym": "UPSA",
+    "alpha_two_code": "GH",
+    "town": ["East Legon"],
+    "region": "Greater Accra Region",
+    "country": "Ghana"
+  },
+  {
+    "web_pages": ["https://www.vvu.edu.gh/"],
+    "name": "Valley View University",
+    "acronym": "VVU",
+    "alpha_two_code": "GH",
+    "town": ["Adentan, Accra", "Techiman", "Accra", " Kumasi", "Tamale", "Takoradi"],
+    "region": "Greater Accra Region",
+    "country": "Ghana"
+  },
+  {
+    "web_pages": ["https://webster.edu.gh/"],
+    "name": "Webster University Ghana",
+    "acronym": "",
+    "alpha_two_code": "GH",
+    "town": [" Luanda Close, Off Lagos Avenue, East Legon"],
+    "region": "Greater Accra Region",
+    "country": "Ghana"
+  },
+  {
+    "web_pages": ["https://weuc.edu.gh/"],
+    "name": "West End University College",
+    "acronym": "WEUC",
+    "alpha_two_code": "GH",
+    "town": ["Ngleshie Amanfro, Accra"],
+    "region": "Greater Accra Region",
+    "country": "Ghana"
+  },
+  {
+    "web_pages": ["https://wiuc-ghana.edu.gh/"],
+    "name": "Wisconsin International University College",
+    "acronym": "WIUC",
+    "alpha_two_code": "GH",
+    "town": ["Agbogba-North Legon, Accra", "Feyiase, Atonso Lake Road, Kumasi"],
+    "region": "Greater Accra Region",
+    "country": "Ghana"
+  },
+  {
+    "web_pages": ["https://zucghana.org/"],
+    "name": "Zenith University College",
+    "acronym": "ZUC",
+    "alpha_two_code": "GH",
+    "town": ["La Education Centre, Accra"],
+    "region": "Greater Accra Region",
+    "country": "Ghana"
+  }
+]
